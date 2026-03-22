@@ -1,1 +1,7 @@
+Phishing is a common type of cybercrime where attackers trick people into sharing sensitive information such as passwords, OTPs, or bank details. It usually happens through fake emails, messages, or websites that look official and trustworthy.
 
+For example, a college student may receive an email that appears to be from their bank or a popular online platform. The message may ask them to verify their account urgently by clicking on a link. This link redirects to a fake website that looks identical to the original one. When the student enters their login details, the attacker gains access to their account.
+
+Phishing attacks mainly target students and working professionals who are not fully aware of such scams. The consequences can include financial loss, identity theft, and loss of personal data.
+
+Therefore, it is important to stay alert, verify sources, and avoid clicking on suspicious links to stay safe online.
